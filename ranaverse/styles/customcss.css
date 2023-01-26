@@ -1,0 +1,101 @@
+.copyright {
+    font-size: 18px !important;
+  }
+  
+  .card-body {
+    background-color: black !important;
+    color: white !important;
+  }
+  .homeli,
+.aboutli,
+.contactli{
+  list-style: none;
+/* display: flex; */
+}
+
+.navbar{
+  display: flex;
+  font-size: 40px;
+}
+
+
+/* .home,
+.about,
+.contact{
+
+} */
+
+.home:link {
+  text-decoration: none;
+}
+
+.home:hover {
+  background-color: crimson;
+}
+
+.about:link {
+  text-decoration: none;
+}
+
+.about:hover {
+ background-color: chartreuse;
+}
+
+
+.contact:link {
+  text-decoration: none;
+}
+
+.contact:hover {
+  background-color:gold
+}
+
+.home:visited {
+  text-decoration: none;
+}
+
+
+.about:visited {
+  text-decoration: none;
+}
+
+
+.contact:visited {
+  text-decoration: none;
+}
+
+.home:hover {
+  text-decoration: underline;
+}
+
+
+.about:hover {
+  text-decoration: underline;
+}
+
+.backgroundimage{
+  background-image: url('../public/3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1250px;
+  height: 860px;
+  padding: 2px;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+.home:active {
+  text-decoration: underline;
+}
+
+
+.about:active {
+  text-decoration: underline;
+}
+
+
+.contact:active {
+  text-decoration: underline;
+}
