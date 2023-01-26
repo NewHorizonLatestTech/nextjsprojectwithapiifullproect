@@ -1,0 +1,2 @@
+# nextjsprojectwithapiifullproect
+nextjsprojectwithapiifullproect
